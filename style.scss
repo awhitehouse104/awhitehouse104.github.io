@@ -36,7 +36,7 @@ body {
 .container {
   margin: 0 auto;
   max-width: 740px;
-  padding: 0 10px;
+  padding: 0 15px;
   width: 100%;
 }
 
@@ -160,6 +160,10 @@ pre {
 
 .wrapper-masthead {
   margin-bottom: 40px;
+
+  @include mobile {
+    margin-bottom: 20px;
+  }
 }
 
 .masthead {
@@ -212,7 +216,6 @@ pre {
   font-size: 16px;
 
   @include mobile {
-    margin-top: 0;
     margin-bottom: 5px;
   }
 }

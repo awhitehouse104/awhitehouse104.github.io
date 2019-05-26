@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "How to live a meaningful life"
+title: "How to live a more meaningful life"
 excerpt: |
- How to live a meaningful life
-published: false
+ To live in the modern world is to live with a practically infinite number of choices and possibilities. Consider for a moment the average person throughout human history. This person spent the majority of their time and energy meeting basic needs. He or she had limited access to both information and other people. Knowledge and network advantages were real and significant, but there’s been a massive shift with the widespread availability of the internet. Access to information and people from around the world are increasingly available to almost anyone. The advantage is no longer about access, but what you do with it.
 ---
 
 To live in the modern world is to live with a practically infinite number of choices and possibilities. Consider for a moment the average person throughout human history. This person spent the majority of their time and energy meeting basic needs. He or she had limited access to both information and other people. Knowledge and network advantages were real and significant, but there's been a massive shift with the widespread availability of the internet. Access to information and people from around the world are increasingly available to almost anyone. The advantage is no longer about access, but what you do with it.
